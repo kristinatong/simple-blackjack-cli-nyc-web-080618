@@ -54,6 +54,9 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  welcome
+  sum = initial_round
+  hit?(initial_round)
+  
 end
     
